@@ -19,8 +19,8 @@
 
 <!-- https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge
  https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge 
-<a href="https://kaggle.com/kaushalvjoshi37" target="_blank">[<img src="https://raw.githubusercontent.com/KJ-999/kaushal_joshi/main/kaggle_badge.png"  width=100px height=28px alt="kaggle" />](https://kaggle.com/kaushalvjoshi37)<a>
-[<img src="https://raw.githubusercontent.com/KJ-999/kaushal_joshi/main/gfg_badge.png" width=155px height=28px alt="geeksforgeeks"/>](https://auth.geeksforgeeks.org/user/kaushalvdzz5/)
+<a href="https://kaggle.com/kaushalvjoshi37" target="_blank">[<img src="https://raw.githubusercontent.com/KJ-999/KJ-999/main/kaggle_badge.png"  width=100px height=28px alt="kaggle" />](https://kaggle.com/kaushalvjoshi37)<a>
+[<img src="https://raw.githubusercontent.com/KJ-999/KJ-999/main/gfg_badge.png" width=155px height=28px alt="geeksforgeeks"/>](https://auth.geeksforgeeks.org/user/kaushalvdzz5/)
 -->
 
 <!--[![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2a9d47?style=for-the-badge)](https://auth.geeksforgeeks.org/user/kaushalvdzz5/) -->
