@@ -1,4 +1,4 @@
-![Banner]([https://media.licdn.com/dms/image/D4D16AQEd_d1o32DuwA/profile-displaybackgroundimage-shrink_350_1400/0/1705219993900?e=1710979200&v=beta&t=zZ5wXMkDxNg3Lb8YPBfZmwRvXNd8KxU5PeUte_xVO4U](https://github.com/KJ-999/KJ-999/blob/main/Github_linkedin_background.jpg?raw=true))
+![Banner](https://github.com/KJ-999/KJ-999/blob/main/Github_linkedin_background.jpg?raw=true)
 
 ## Kaushal Joshi **` Data Science and AI Enthusiast`**
 
